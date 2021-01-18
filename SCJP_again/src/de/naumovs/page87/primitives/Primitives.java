@@ -11,9 +11,15 @@ public class Primitives {
 	double d; // 8 bytes -> 64bits
 	
 	
-	boolean myBoolenPrimitive;
+	boolean myBoolenPrimitive; // true | false
 	int x,y,z;
 	
+	char c; // 16-bit 2^16 unicode
 	
+	String string1, string2;
+	
+	Object object;
 
+	
+	
 }
